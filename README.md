@@ -19,7 +19,7 @@ This small CLI tool dispatches GlobalPing probes to a target IP address or hostn
 ---
 
 ## Limitation
-For the multivantage-point measurements, I use the GlobalPing API service. Because its probes are primarily located in Europe, IP tracking works most reliably for targets in Europe. Tracking IP addresses in other regions may produce inaccurate coordinates due to increased intercontinental network latency and noise.
+For the multivantage-point measurements, I use the GlobalPing API service. Because its probes are primarily located in Germany, IP tracking works most reliably for targets in Germany. Tracking IP addresses in other regions may produce inaccurate coordinates due to increased intercontinental network latency and noise.
 
 ## Requirements
 
