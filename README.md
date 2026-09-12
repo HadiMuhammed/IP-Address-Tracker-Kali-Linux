@@ -1,5 +1,8 @@
 # IP Address Tracker
-Constraint Based Geolocation Tracking - Multivantage IP Pinging Rount Trip Time to Distance conversation 
+Constraint Based Geolocation Tracking - Multivantage IP Pinging Rount Trip Time to Distance conversation
+
+This tool works best with Hacking OS (Kali Linux etc)
+
 Robust multi-vantage IP geolocation using RTT-weighted centroiding of global ping measurements.
 
 This small CLI tool dispatches GlobalPing probes to a target IP address or hostname, collects per-probe minimum RTTs, and estimates the target's geographic coordinates by computing an RTT-weighted centroid of valid probes. The result includes an estimated latitude/longitude and a Google Maps link.
