@@ -8,6 +8,9 @@ Robust multi-vantage IP geolocation using RTT-weighted centroiding of global pin
 
 This small CLI tool dispatches GlobalPing probes to a target IP address or hostname, collects per-probe minimum RTTs, and estimates the target's geographic coordinates by computing an RTT-weighted centroid of valid probes. The result includes an estimated latitude/longitude and a Google Maps link.
 
+## Referance : 
+https://conferences.sigcomm.org/imc/2004/papers/p288-gueye.pdf
+
 ---
 
 ## Features
